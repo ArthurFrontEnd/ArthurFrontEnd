@@ -2,7 +2,7 @@
 
 
 -💻A procura de um estágio de Front End <br>
--📚Estou cursando ADS (Análise e Desenvolvimento de sistemas) 1 Semestre
+-📚Estou cursando ADS (Análise e Desenvolvimento de sistemas) 2 Semestre
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
